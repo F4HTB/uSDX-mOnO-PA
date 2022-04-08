@@ -1878,7 +1878,8 @@
     (uuid f903d450-a9ba-4955-99bc-63326ebb2759)
   )
 
-  (text "L4 and L5 T37-6 9tr 0,85mm" (at 179.07 115.57 0)
+  (text "L4 and L5 T37-6 9tr 0,85mm. \nYou can add respectively 12pF and 33pF 200v in parallel \nto set a eliptic low pass filter and get bether filtering."
+    (at 179.07 115.57 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0bdb948e-1431-4cc3-8b25-82a8d0da53db)
   )
@@ -1894,8 +1895,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5bffc67e-1f19-4ce8-a04b-5942212e56a5)
   )
-  (text "Shunt attenuator if you what.\nSo replace R2 with a wire, remove R1 and R3."
-    (at 179.07 110.49 0)
+  (text "Shunt attenuator if you whant.\nSo replace R2 with a wire, remove R1 and R3. \nOr mesure impedance input of the mosfet and set a LC adaptation.\nI have set a 260pF in R1 place and à 138nH air self 5mm 5turns to R2."
+    (at 179.07 106.68 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6fe434db-8eba-4aa7-914b-a1d7f236ec6f)
   )
@@ -1917,7 +1918,7 @@
     (uuid a07e62dd-aca4-4519-b06c-fd210759f6ec)
   )
   (text "L1 : 6tr twisted bifilar 0,35mm on FT37-43\nL2 : 2tr 1 to 3, 3tr 2 to 4 twisted bifilar 0,85mm on FT37-43 BN43-202\nLast turn of L2 is untwisted."
-    (at 179.07 104.14 0)
+    (at 179.07 96.52 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a4b12488-3c76-46b6-b0d1-fda5de7551e6)
   )

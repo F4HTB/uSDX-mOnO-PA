@@ -6,14 +6,24 @@ It will take place in the last layer of the uSDX mOnO.
 
 Note that it is currently in testing.
 I keep making things better.
-Currently 10w @ 28mhz
+Currently ~10w @ 28mhz with harmonics below 46dbc.
 
 The simulation folder contains an LTspice equivalent.
 
-![diagram](/diagram_.png)
+Please read the notes in the diagram.
 
-![pcb](/pcb_.png)
+![diagram](/pictures/diagram_.png)
 
-![3d_bottom](/usdx_mono_PA_3d_bottom.png)
+![pcb](/pictures/pcb_.png)
 
-![3d_top](/usdx_mono_PA_3d_top.png)
+![3d_bottom](/pictures/usdx_mono_PA_3d_bottom.png)
+
+![3d_top](/pictures/usdx_mono_PA_3d_top.png)
+
+![3d_top](/pictures/wattmeter.jpg)
+
+![3d_top](/pictures/carrier_signal.jpg)
+
+![3d_top](/pictures/first_harmonic.jpg)
+
+![3d_top](/pictures/harmonics.jpg)
